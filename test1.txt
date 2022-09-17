@@ -3,3 +3,5 @@ test1
 newBranch
 
 changing master
+
+new branch test
